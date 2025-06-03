@@ -1,0 +1,179 @@
+
+________________
+
+
+✨ Prompt to Create a Personal Life-Management App ✨
+________________
+
+
+App Name (Optional Placeholder):
+“Harmony” (or let the AI suggest one based on the theme)
+________________
+
+
+🖌️ Design & Theme Preferences
+* Color Scheme:
+
+   * Soft, pastel colors only.
+
+   * Baby Pink (#FADADD) and Baby Purple (#E6DAF1) are the primary colors.
+
+   * Minimal use of other colors (only greys/whites for neutral elements).
+
+   * No vibrant colors.
+
+      * Design Style:
+
+         * Soft, calming UI.
+
+         * Rounded corners, clean fonts (like Inter, SF Pro, or Nunito).
+
+         * Pastel gradient options welcomed, but not mandatory.
+
+         * Gentle animations/transitions encouraged.
+
+________________
+
+
+🔧 Core Features
+________________
+
+
+1. Life Minute Tracker (Inspired by "Blocky")
+Purpose: Track every minute of your day with customizable time blocks.
+Key Functions:
+            * A drag-and-drop interface to plan your day by the minute (or in 5/10-minute blocks).
+
+            * Ability to create custom activities, assign them colors/icons.
+
+            * Add description/notes to each activity block (e.g., "Study – Reviewing Week 3 notes for Media class").
+
+            * Toggle between Daily View and Timeline View.
+
+            * Optional reminders before each time block begins.
+
+________________
+
+
+2. Study Organizer (Inspired by "My Study Life")
+Purpose: Organize academic life with calendar, subject, and task views.
+Key Functions:
+               * Add school/academic calendar and link recurring classes to subjects.
+
+               * View by week, month, or subject.
+
+               * Add subjects, assignments, and set due dates.
+
+               * Set priority levels (e.g., low/medium/high).
+
+               * Track task status (e.g., to-do, in progress, completed).
+
+               * Reminders and notifications for upcoming due dates.
+
+               * Optional field to add study notes/links for assignments.
+
+________________
+
+
+3. Progress Tracker (Inspired by “Progress” App)
+Purpose: Set and visually track personal goals (e.g., savings).
+Key Functions:
+                  * Add new goals (e.g., "Save $200").
+
+                  * Simple UI: Add daily/occasional progress entries (e.g., "+$1").
+
+                  * Visual tracker (bar or circular progress) with customizable icon/color.
+
+                  * No extra analytics—just simple input and visual progress.
+
+________________
+
+
+4. Weekly Planner
+Purpose: Plan each week in a clean, visual format.
+Key Functions:
+                     * Weekly overview page with horizontal layout (Monday–Sunday).
+
+                     * Add bullet-point to-do items per day.
+
+                     * Each task can include:
+
+                        * Time (optional),
+
+                        * Location (optional),
+
+                        * Checkbox to mark as done.
+
+                           * Option to type free text per day (not in checklist format).
+
+                           * Option to duplicate/copy last week’s tasks.
+
+________________
+
+
+5. Personal Finance Tracker (Spreadsheet Style)
+Purpose: Track expenses/income in a spreadsheet format.
+Key Functions:
+                              * Add entries for income and expenses with:
+
+                                 * Date
+
+                                 * Category (Food, Bills, etc.)
+
+                                 * Amount
+
+                                 * Notes (optional)
+
+                                    * Running total for each category.
+
+                                    * Sort/filter by month or custom range.
+
+                                    * Import feature: Support import from Apple Numbers, Excel (.xlsx), or .csv format.
+
+                                    * Visual summaries (optional): pie chart of spending categories, income vs expenses chart.
+
+________________
+
+
+⚙️ General Functional Requirements
+                                       * Account/Login System (can be optional, local data storage or cloud backup options).
+
+                                       * App should work offline but sync when online (if cloud is used).
+
+                                       * Simple home screen dashboard with customizable widgets for each function.
+
+                                       * Search function to find notes, tasks, activities across modules.
+
+                                       * Smooth transitions between modules.
+
+________________
+
+
+📱 Platform Requirements
+                                          * iOS and Android compatible.
+
+                                          * Optimized for mobile, with tablet support as bonus.
+
+                                          * Future-ready for a possible web app version.
+
+________________
+
+
+🧠 Sample Apps to Reference
+Please look into the following apps for accurate replication of relevant functionality:
+                                             * Blocky – Time Management
+
+                                             * My Study Life – Student Planner
+
+                                             * Progress – Goal Tracker
+
+                                             * Structured – Daily Planner (optional reference for timeline UI)
+
+                                             * Apple Numbers compatibility for spreadsheet import.
+
+________________
+
+
+✅ Summary:
+Create a soft pastel-colored all-in-one life management app combining features from time tracking, academic scheduling, goal progress tracking, weekly planning, and financial spreadsheets. The app should be user-friendly, highly visual, and relaxing to use—no clutter, no complex analytics. The goal is to simplify life across all these areas in one beautifully designed app.
+________________
